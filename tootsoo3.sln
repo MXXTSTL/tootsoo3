@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tootsoo3", "tootsoo3\tootsoo3.csproj", "{9B9778D9-EA53-4F47-9670-6D28B037CFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSchematic", "WpfSchematic\WpfSchematic.csproj", "{9F11E0B6-67FD-4141-BB18-9024F23793EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9778D9-EA53-4F47-9670-6D28B037CFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9778D9-EA53-4F47-9670-6D28B037CFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9778D9-EA53-4F47-9670-6D28B037CFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9778D9-EA53-4F47-9670-6D28B037CFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F11E0B6-67FD-4141-BB18-9024F23793EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F11E0B6-67FD-4141-BB18-9024F23793EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F11E0B6-67FD-4141-BB18-9024F23793EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F11E0B6-67FD-4141-BB18-9024F23793EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0293595-B071-47B2-9D4D-9F776F8A8149}
+	EndGlobalSection
+EndGlobal

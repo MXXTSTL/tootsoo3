@@ -1,0 +1,1089 @@
+﻿<UserControl x:Class="WpfSchematic.WpfSchem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfSchematic"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1000">
+    <UserControl.Resources>
+        <ImageBrush x:Key="nogoon_tasluur" ImageSource="/WpfSchematic;component/nogoon_tasluur1.jpg" ></ImageBrush>
+        <ImageBrush x:Key="ulaan_tasluur" ImageSource="/WpfSchematic;component/ulaan_tasluur1.jpg" ></ImageBrush>
+        <ImageBrush x:Key="f1" ImageSource="/WpfSchematic;component/f1.png" ></ImageBrush>
+        <ImageBrush x:Key="f2" ImageSource="/WpfSchematic;component/f2.png" ></ImageBrush>
+        <ImageBrush x:Key="f3" ImageSource="/WpfSchematic;component/f3.png" ></ImageBrush>
+        <ImageBrush x:Key="f4" ImageSource="/WpfSchematic;component/f4.png" ></ImageBrush>
+
+    </UserControl.Resources>
+
+    <Grid>
+        <Viewbox  Stretch="Fill">
+
+            <Grid Height="600" Width="1000">
+                <Grid.Background>
+                    <ImageBrush ImageSource="backgr1s.jpg"/>
+                </Grid.Background>
+
+                <!--#region TG-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#region ao bo undur-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#region dund ao-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#endregion-->
+                <!--#region TG1-->
+
+                <Border Margin="920,330,0,0">
+                    <Grid>
+                        <Label Content="ТГ-1" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG1U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG1I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG1P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG1Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG1PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <Rectangle x:Name="TG1_bg" HorizontalAlignment="Left" Height="40" Margin="938,289,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG1_f1" HorizontalAlignment="Left" Height="38" Margin="938.9,289.2,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG1_f2" HorizontalAlignment="Left" Height="38" Margin="938.9,289.2,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG1_f3" HorizontalAlignment="Left" Height="38" Margin="938.9,289.2,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG1_f4" HorizontalAlignment="Left" Height="38" Margin="938.9,289.2,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+
+                <!--#endregion-->
+                <Rectangle x:Name="TG1tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="951.833,256.267,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+
+
+                <Border Margin="725,80,0,0">
+                    <Grid>
+                        <Label x:Name="esgiilehaP1" Content="0000" HorizontalAlignment="Left" Margin="00,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="esgiilehbP1" Content="0000" HorizontalAlignment="Left" Margin="40,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="zam4aP1" Content="0000" HorizontalAlignment="Left" Margin="180,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="zam4bP1" Content="0000" HorizontalAlignment="Left" Margin="220,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="songinoaP1" Content="0000" HorizontalAlignment="Left" Margin="90,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="songinobP1" Content="0000" HorizontalAlignment="Left" Margin="140,00,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="esgiilehaI1" Content="0000" HorizontalAlignment="Left" Margin="00,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="esgiilehbI1" Content="0000" HorizontalAlignment="Left" Margin="40,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="zam4aI1" Content="0000" HorizontalAlignment="Left" Margin="180,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="zam4bI1" Content="0000" HorizontalAlignment="Left" Margin="220,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="songinoaI1" Content="0000" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="songinobI1" Content="0000" HorizontalAlignment="Left" Margin="140,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                
+                
+                <!--#region TG2-->
+                <Border Margin="855,330,0,0">
+                    <Grid>
+                        <Label Content="ТГ-2" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG2U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG2I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG2P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG2Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG2PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="TG2_bg" HorizontalAlignment="Left" Height="40" Margin="859,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG2_f1" HorizontalAlignment="Left" Height="38" Margin="859.2,290.9,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG2_f2" HorizontalAlignment="Left" Height="38" Margin="859.2,290.9,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG2_f3" HorizontalAlignment="Left" Height="38" Margin="859.2,290.9,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG2_f4" HorizontalAlignment="Left" Height="38" Margin="859.2,290.9,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG2tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="871.833,256.267,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+
+                <!--#region TG3-->
+                <Border Margin="775,330,0,0">
+                    <Grid>
+                        <Label Content="ТГ-3" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG3U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG3I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG3P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG3Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG3PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="TG3_bg" HorizontalAlignment="Left" Height="40" Margin="788,289,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG3_f1" HorizontalAlignment="Left" Height="38" Margin="789,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG3_f2" HorizontalAlignment="Left" Height="38" Margin="789,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG3_f3" HorizontalAlignment="Left" Height="38" Margin="789,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG3_f4" HorizontalAlignment="Left" Height="38" Margin="789,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG3tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="801.166,256.267,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+
+                <!--#region TG4-->
+                <Border Margin="700,330,0,0">
+                    <Grid>
+                        <Label Content="ТГ-4" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG4U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG4I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG4P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG4Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG4PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="TG4_bg" HorizontalAlignment="Left" Height="40" Margin="717,289,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG4_f1" HorizontalAlignment="Left" Height="38" Margin="717.5,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG4_f2" HorizontalAlignment="Left" Height="38" Margin="717.5,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG4_f3" HorizontalAlignment="Left" Height="38" Margin="717.5,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG4_f4" HorizontalAlignment="Left" Height="38" Margin="717.5,290,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Rectangle x:Name="tg4tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="798.498,139.301,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+
+                <!--#region TG5-->
+                <Border Margin=" 417.6,0,500,0" x:Name="TG5line" d:IsHidden="True">
+                    <Grid>
+                        <Path  Data="M29.3,188 L29.3,220 M8,203 L30,203 M8.7,202.5 L8.7,271 M8,271 L44.7,271  M44,270.3 L44,281 M24,270.3 L24,435 M23.2,435 L42.5,435 M42,434.2 L42,445" Stroke="red" StrokeThickness="1.5"   />
+                        <Rectangle x:Name="TG5_bg" HorizontalAlignment="Left" Height="40" Margin="10,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                        <Rectangle x:Name="TG5_f1" HorizontalAlignment="Left" Height="38" Margin="10.7,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                        <Rectangle x:Name="TG5_f2" HorizontalAlignment="Left" Height="38" Margin="10.7,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                        <Rectangle x:Name="TG5_f3" HorizontalAlignment="Left" Height="38" Margin="10.7,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                        <Rectangle x:Name="TG5_f4" HorizontalAlignment="Left" Height="38" Margin="10.7,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                    </Grid>
+
+                </Border>
+                <Border Margin="470,200,0,0">
+                    <Grid>
+                        <Label Content="ТГ-5" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG5U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG5I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG5P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG5Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG5PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="TG5tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="416.832,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+
+                <!--#region TG6-->
+                <Rectangle x:Name="TG6_bg" HorizontalAlignment="Left" Height="40" Margin="317,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG6_f1" HorizontalAlignment="Left" Height="38" Margin="317.4,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG6_f2" HorizontalAlignment="Left" Height="38" Margin="317.4,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG6_f3" HorizontalAlignment="Left" Height="38" Margin="317.4,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG6_f4" HorizontalAlignment="Left" Height="38" Margin="317.4,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Path x:Name="TG6line" Data="M335,188 L335,220 M313,203 L335,203 M313.7,202.5 L313.7,271 M328.2,435 L350.5,435 M350,434.2 L350,445 M313,271 L349.7,271  M349,270.3 L349,281 M329,270.3 L329,435" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"/>
+                <Rectangle x:Name="TG6tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="310.165,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Border Margin="360,200,0,0">
+                    <Grid>
+                        <Label Content="ТГ-6" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG6U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG6I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG6P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG6Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG6PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#region TG7 -->
+                <Rectangle x:Name="TG7_bg" HorizontalAlignment="Left" Height="40" Margin="205,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG7_f1" HorizontalAlignment="Left" Height="38" Margin="205,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG7_f2" HorizontalAlignment="Left" Height="38" Margin="205,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG7_f3" HorizontalAlignment="Left" Height="38" Margin="205,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG7_f4" HorizontalAlignment="Left" Height="38" Margin="205,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Path x:Name="TG7line" Data="M222.9,188 L222.9,220 M202,204 L222.2,204 M202,203.2 L202,269.5 M201.2,269.5 L245.7,269.5  M245,270.3 L245,281 M224,270.3 L224,435 M223.2,435 L245,435 M244.5,434.2 L244.5,445" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="TG7tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="196.832,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Border Margin="245,200,0,0">
+                    <Grid>
+                        <Label Content="ТГ-7" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG7U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG7I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG7P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG7Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG7PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#region tg8-->
+                <Rectangle x:Name="TG8_bg" HorizontalAlignment="Left" Height="40" Margin="95,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG8_f1" HorizontalAlignment="Left" Height="38" Margin="96,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG8_f2" HorizontalAlignment="Left" Height="38" Margin="96,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG8_f3" HorizontalAlignment="Left" Height="38" Margin="96,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG8_f4" HorizontalAlignment="Left" Height="38" Margin="96,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Path x:Name="TG8line" Data="M114.9,188 L114.9,220 M93,204 L114.2,204 M93.3,203.2 L93.3,220 M93.3,220 L93.3,271 M92.5,271 L140,271  M139.5,270.3 L139.5,281 M121.4,270.3 L121.4,435 M120.7,435 L141,435 M141,434.2 L141,445" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="TG8tasluur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="93.833,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Border Margin="135,200,0,0">
+                    <Grid>
+                        <Label Content="ТГ-8" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG8U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG8I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG8P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG8Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG8PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <!--#region tg9-->
+                <Rectangle x:Name="TG9_bg" HorizontalAlignment="Left" Height="40" Margin="46,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="38" Fill="Black" d:IsHidden="True" />
+                <Rectangle x:Name="TG9_f1" HorizontalAlignment="Left" Height="38" Margin="47,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f1}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG9_f2" HorizontalAlignment="Left" Height="38" Margin="47,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f2}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG9_f3" HorizontalAlignment="Left" Height="38" Margin="47,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f3}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG9_f4" HorizontalAlignment="Left" Height="38" Margin="47,220,0,0" StrokeStartLineCap="Round"   VerticalAlignment="Top" Width="36.5" Fill="{StaticResource f4}" d:IsHidden="True"/>
+                <Rectangle x:Name="TG9tasuur" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="52.167,73.834,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Path x:Name="TG9line" Data="M73,189 L73,210 M65,209.2 L73,209.2 M65.5,208.5 L65.5,220" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Border Margin="50,265,0,0">
+                    <Grid>
+                        <Label Content="ТГ-9" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#DDFF0101" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="TG9P1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#region BTR-->
+                <Border Margin="470,120,0,0">
+                    <Grid>
+                        <Label Content="БТР-5" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR5U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR5I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR5P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR5Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR5PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <Border Margin="355,120,0,0">
+                    <Grid>
+                        <Label Content="БТР-6" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR6U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR6I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR6P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR6Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR6PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <Border Margin="245,120,0,0">
+                    <Grid>
+                        <Label Content="БТР-7" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR7U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR7I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR7P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR7Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR7PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <Border Margin="135,120,0,0">
+                    <Grid>
+                        <Label Content="БТР-8" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR8U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR8I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR8P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR8Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="BTR8PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <!--#region 1roa-->
+                <Border Margin="470,270,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1roaU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1roaI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1roaP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1roaQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1roaPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin=" 417.6,0,500,0">
+                    <Grid>
+                        <Path x:Name="R1roaline" Data="M44,317 L44,332.5" Stroke="red" StrokeThickness="1.5" d:IsHidden="True" />
+
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R1roagreen" HorizontalAlignment="Left" Height="36.583" Margin="455.709,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R1roared" HorizontalAlignment="Left" Height="36.583" Margin="455.709,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+
+                <!--#region 1rob-->
+                <Border Margin="470,360,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1robU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1robI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1robP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1robQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R1robPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin=" 417.6,0,500,0" d:IsHidden="True">
+                    <Grid>
+                        <Path x:Name="R1robline" Data="M44.5,356 L44.5,427" Stroke="red" StrokeThickness="1.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R1robgreen" HorizontalAlignment="Left" Height="37.333" Margin="456.21,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R1robred" HorizontalAlignment="Left" Height="37.333" Margin="456.21,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="1РО" Margin="457,338,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold" d:IsHidden="True"/>
+                <!--#region 7ra-->
+                <Border Margin="470,435,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin=" 417.6,0,500,0" d:IsHidden="True">
+                    <Grid>
+                        <Path x:Name="R7raline" Data="M42,482 L42,500" Stroke="red" StrokeThickness="1.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R7ragreen" HorizontalAlignment="Left" Height="37.333" Margin="453.709,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R7rared" HorizontalAlignment="Left" Height="37.333" Margin="453.709,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <!--#region 7rb-->
+                <Border Margin="470,525,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R7rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin=" 417.6,0,500,0" d:IsHidden="True">
+                    <Grid>
+                        <Path x:Name="R7rbline" Data="M42.7,523 L42.7,582 M20,430 L20,582 M43.5,582 L19.3,582" Stroke="red" StrokeThickness="1.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R7rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="454.043,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R7rbred" HorizontalAlignment="Left" Height="37.333" Margin="454.043,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="7Р" Margin="457,506,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <Label Content="1РО" Margin="457,338,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 2roa-->
+                <Border Margin="360,270,0,0" d:IsHidden="True">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2roaU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2roaI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2roaP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2roaQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2roaPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R2roaline" Data="M349,317 L349,332.5" Stroke="red" StrokeThickness="1.5" d:IsHidden="True" />
+                <Rectangle x:Name="R2roagreen" HorizontalAlignment="Left" Height="36.583" Margin="342.959,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R2roared" HorizontalAlignment="Left" Height="36.583" Margin="342.959,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <!--#region  2rob-->
+                <Border Margin="360,360,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2robU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2robI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2robP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2robQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R2robPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R2robline" Data="M349.5,356 L349.5,427" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R2robgreen" HorizontalAlignment="Left" Height="37.333" Margin="342.959,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R2robred" HorizontalAlignment="Left" Height="37.333" Margin="342.959,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="2РО" Margin="347,338,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 8ra-->
+                <Border Margin="360,435,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R8raline" Data="M350,482 L350,500" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R8ragreen" HorizontalAlignment="Left" Height="37.333" Margin="343.959,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R8rared" HorizontalAlignment="Left" Height="37.333" Margin="343.959,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <!--#region 8rb-->
+                <Border Margin="360,525,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R8rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R8rbline" Data="M350.7,523 L350.7,582 M323,430 L323,582 M351.5,582 L322.3,582" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R8rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="344.627,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R8rbred" HorizontalAlignment="Left" Height="37.333" Margin="344.627,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="8Р" Margin="347,506,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 9ra-->
+                <Border Margin="255,270,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R9ragreen" HorizontalAlignment="Left" Height="36.583" Margin="238.709,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R9rared" HorizontalAlignment="Left" Height="36.583" Margin="238.709,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Path x:Name="R9line" Data="M245,317 L245,332.5" Stroke="red" StrokeThickness="1.5" d:IsHidden="True" />
+                <!--#region 9rb-->
+                <Border Margin="255,360,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R9rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R9rbline" Data="M245.5,357 L245.5,427" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R9rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="239.459,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R9rbred" HorizontalAlignment="Left" Height="37.333" Margin="239.459,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="9Р" Margin="240,338,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 10ra-->
+                <Border Margin="255,435,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R10raline" Data="M244.5,482 L244.5,500" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R10ragreen" HorizontalAlignment="Left" Height="37.333" Margin="238.459,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R10rared" HorizontalAlignment="Left" Height="37.333" Margin="238.459,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <!--#region 10rb-->
+                <Border Margin="255,525,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R10rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R10rbline" Data="M219,430 L219,576 M244.7,523 L244.7,582 M219,576 L219,582 M245.5,582 L218.3,582" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R10rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="238.709,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R10rbred" HorizontalAlignment="Left" Height="37.333" Margin="238.709,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="10Р" Margin="240,506,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 11ra-->
+                <Border Margin="150,270,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R11ragreen" HorizontalAlignment="Left" Height="36.583" Margin="133.459,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R11rared" HorizontalAlignment="Left" Height="36.583" Margin="133.459,280.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Path x:Name="R11raline" Data="M139.8,317 L139.8,332.5" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <!--#region 11rb-->
+                <Border Margin="150,360,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R11rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R11rbline" Data="M140.5,356 L140.5,427" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R11rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="134.209,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R11rbred" HorizontalAlignment="Left" Height="37.333" Margin="134.209,375.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="11Р" Margin="135,338,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 12ra-->
+                <Border Margin="150,435,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="R12ragreen" HorizontalAlignment="Left" Height="37.333" Margin="134.709,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R12rared" HorizontalAlignment="Left" Height="37.333" Margin="134.709,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Path x:Name="R12raline" Data="M140.8,482 L140.8,500" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <!--#region 12rb-->
+                <Border Margin="150,525,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R12rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R12rbline" Data="M118,430 L118,576 M141.2,523 L141.2,582 M118,576 L118,582 M117.25,582 L142,582" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R12rbgreen" HorizontalAlignment="Left" Height="37.333" Margin="135.292,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R12rbred" HorizontalAlignment="Left" Height="37.333" Margin="135.292,538.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="12Р" Margin="135,506,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region 13r a -->
+                <Border Margin="45,435,0,0">
+                    <Grid>
+                        <Label Content="АО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13raU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13raI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13raP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13raQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13raPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#region 13r b -->
+                <Border Margin="45,525,0,0">
+                    <Grid>
+                        <Label Content="БО" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13rbU1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13rbI1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13rbP1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13rbQ1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="R13rbPF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Path x:Name="R13raline" Data="M32,429 L32,496" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="R13ragreen" HorizontalAlignment="Left" Height="37.333" Margin="26.209,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="R13rared" HorizontalAlignment="Left" Height="37.333" Margin="26.209,444.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="13Р" Margin="27,502,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="10" FontFamily="Arial" Padding="0" FontWeight="Bold"/>
+                <!--#region T12 -->
+                <Border Margin="45,340,0,0">
+                    <Grid>
+                        <Label Content="T12" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T12U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T12I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T12P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T12Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T12PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <Path x:Name="T12line" Data="M36,187 L36,428" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="T12green" HorizontalAlignment="Left" Height="36.583" Margin="29.709,348.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="T12red" HorizontalAlignment="Left" Height="36.583" Margin="29.875,348.834,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <!--#region haalt-->
+                <Border Margin=" 417.6,0,500,0">
+                    <Grid>
+                        <Path x:Name="pic76" Data="M54,333.5 L34.5,333.5  M36,333 L36,356 M34.5,355 L54,355" Stroke="red" StrokeThickness="3" Margin="0,-0.333,0,0.333" d:IsHidden="True"  />
+                        <Path x:Name="pic79" Data="M52,501.2 L33.5,501.2  M34.7,500 L34.7,523.5 M33.5,522 L52,522" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                    </Grid>
+                </Border>
+                <Path x:Name="pic77" Data="M359,333.5 L339.5,333.5  M341,333 L341,356 M339.5,355 L359,355" Stroke="red" StrokeThickness="3" d:IsHidden="True" />
+                <Path x:Name="pic78" Data="M360,501.2 L341.5,501.2  M342.7,500 L342.7,523.5 M341.5,522 L360,522" Stroke="red" StrokeThickness="3" d:IsHidden="True" />
+                <Path x:Name="pic80" Data="M254,333.5 L235.5,333.5  M236.7,333 L236.7,357 M236.5,355.5 L254,355.5" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                <Path x:Name="pic82" Data="M254,501.2 L235.5,501.2  M236.7,500 L236.7,523.5 M236.5,522 L254,522" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                <Path x:Name="pic81" Data="M130.5,333.5 L149,333.5  M132,333 L132,356 M130.5,355 L149,355" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                <Path x:Name="pic84" Data="M131.5,501 L150,501  M133,500.5 L133,523.5 M131.5,522 L150,522" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                <!--#region 1 ao-->
+                <Border Margin="935,470,0,0">
+                    <Grid>
+
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao1U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao1I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao1P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao1Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao1PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="940,0,0,0" x:Name="ao1line" d:IsHidden="True">
+                    <Grid>
+                        <Path x:Name="ao1line1" Data="M17.3,238 L17.3,244 M16.8,244 L50.5,244 M50,244 L50,406.2 M10.8,405.5 L50,405.5 M11.5,406 L11.5,465" Stroke="red" StrokeThickness="1.5"   />
+                        <Path x:Name="ao1line2" Data="M3,464.5 L20.5,464.5" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="ao1green" HorizontalAlignment="Left" Height="37.333" Margin="945.408,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao1red" HorizontalAlignment="Left" Height="37.333" Margin="945.408,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="922,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="1Р АО" Margin="918,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#region 2 ao-->
+                <Border Margin="870,470,0,0">
+                    <Grid>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao2U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao2I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao2P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao2Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao2PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="874,0,0,0" x:Name="ao2line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M78.8,238 L78.8,248 M78.3,247.5 L113.5,247.5 M113,247.2 L113,398.7 M10.8,398 L113,398 M11.5,398 L11.5,465" Stroke="red" StrokeThickness="1.5"   />
+                        <Path Data="M3.5,464.5 L20.5,464.5" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle  x:Name="ao2green" HorizontalAlignment="Left" Height="37.333" Margin="879.408,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao2red" HorizontalAlignment="Left" Height="37.333" Margin="879.408,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="857,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="2Р АО" Margin="852,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#region ao3-->
+                <Border Margin="804,470,0,0">
+                    <Grid>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao3U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao3I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao3P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao3Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao3PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="807,0,0,0" x:Name="ao3line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M42.8,238 L42.8,412.7 M10.8,412 L43,412 M11.5,412 L11.5,465" Stroke="red" StrokeThickness="1.5"   />
+                        <Path Data="M3.5,466.5 L20.5,466.5" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="ao3green" HorizontalAlignment="Left" Height="37.333" Margin="812.908,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao3red" HorizontalAlignment="Left" Height="37.333" Margin="812.908,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="790,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="3Р АО" Margin="786,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#region ao4-->
+                <Border Margin="736,470,0,0">
+                    <Grid>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao4U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao4I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao4P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao4Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao4PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="741,0,0,0" x:Name="ao4line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M103.2,238 L103.2,404 M32.2,404 L104,404 M33,405 L33,422.5 M11.5,422 L11.5,465 M10.8,422 L33,422" Stroke="red" StrokeThickness="1.5"   />
+                        <Path Data="M3.5,466.5 L20.5,466.5" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="ao4green" HorizontalAlignment="Left" Height="37.333" Margin="746.508,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao4red" HorizontalAlignment="Left" Height="37.333" Margin="746.508,424.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="723,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="4Р АО" Margin="720,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#region ao5-->
+                <Border Margin="672,470,0,0">
+                    <Grid>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao5U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao5I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao5P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao5Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao5PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="676,0,0,0" x:Name="ao5line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M91,238 L91,405.7 M10.7,405 L91,405 M11.5,405 L11.5,464" Stroke="red" StrokeThickness="1.5"   />
+                        <Path Data="M3.5,464 L20.5,464" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="ao5green" HorizontalAlignment="Left" Height="37.333" Margin="681.258,421.917,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao5red" HorizontalAlignment="Left" Height="37.333" Margin="681.258,421.917,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="659,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="4Р АО" Margin="655,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#region 6 ao-->
+                <Border Margin="605,470,0,0">
+                    <Grid>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao6U1" Content="0000" HorizontalAlignment="Left" Margin="14,0,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao6I1" Content="0000" HorizontalAlignment="Left" Margin="14,12,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao6P1" Content="0000" HorizontalAlignment="Left" Margin="14,24,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao6Q1" Content="0000" HorizontalAlignment="Left" Margin="14,36,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="ao6PF1" Content="0000" HorizontalAlignment="Left" Margin="14,48,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="610,0,0,0" x:Name="ao6line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M153,238 L153,397.7 M10,397 L153,397 M10.5,397 L10.5,464" Stroke="red" StrokeThickness="1.5"   />
+                        <Path Data="M2.5,464.5 L20,464.5" Stroke="red" StrokeThickness="2.5"   />
+                    </Grid>
+                </Border>
+                <Rectangle x:Name="ao6green" HorizontalAlignment="Left" Height="37.333" Margin="614.793,421.917,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="ao6red" HorizontalAlignment="Left" Height="37.333" Margin="614.793,421.917,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Label Content="6кВ" Margin="593,435,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <Label Content="4Р АО" Margin="589,445,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                <!--#endregion-->
+                <Border Margin="630,0,0,0" x:Name="T1line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M10,191 L10,195 M9.5,194.5 L313,194.5 M312.5,194 L312.5,235" Stroke="red" StrokeThickness="1.5"   />
+                    </Grid>
+                </Border>
+                <Border Margin="630,210,0,0">
+                    <Grid>
+                        <Label Content="T-1" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T1U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T1I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T1P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T1Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T1PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="500,0,0,0" x:Name="T2line" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M50.7,191 L50.7,206.7 M50.5,206 L283,206 M282.5,205.2 L282.5,235" Stroke="red" StrokeThickness="1.5"   />
+                    </Grid>
+                </Border>
+                <Border Margin="550,210,0,0">
+                    <Grid>
+                        <Label Content="T-2" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T2U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T2I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T2P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T2Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T2PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <Border Margin="545,200,0,0">
+                    <Grid>
+                        <Path x:Name="Ych04LineRed" Data="M13.3,106.7 L13.3,229 M13.3,107 L165.8,107 M165,10.5 L165,108 M164.5,10.5 L215,10.5 M215,36 L215,10.5" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"/>
+                        <Path x:Name="Ych04LineGreen" Data="M13.3,106.7 L13.3,229 M13.3,107 L165.8,107 M165,10.5 L165,108 M164.5,10.5 L215,10.5 M215,36 L215,10.5" Stroke="Green" StrokeThickness="1.5" d:IsHidden="True"/>
+                    </Grid>
+                </Border>
+                <Border Margin="545,300,1,-3" RenderTransformOrigin="0.485,0.478">
+                    <Grid>
+                        <Rectangle x:Name="Ych04red" HorizontalAlignment="Left" Height="37" Margin="7.4,10,0,0" VerticalAlignment="Top" Width="12" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="False"/>
+                        <Rectangle x:Name="Ych04green" HorizontalAlignment="Left" Height="37.333" Margin="7,10,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="False"/>
+                        <Label Content="Яч-04" HorizontalAlignment="Left" Margin="23,10,0,0" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="23,20,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="YCHU1" Content="0000" HorizontalAlignment="Left" Margin="37,20,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="23,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0" RenderTransformOrigin="-5.75,0.636"/>
+                        <Label x:Name="YCHI1" Content="0000" HorizontalAlignment="Left" Margin="37,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0" RenderTransformOrigin="2.853,0.318"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="23,41,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="YCHP1" Content="0000" HorizontalAlignment="Left" Margin="37,41,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="23,52,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="YCHQ1" Content="0000" HorizontalAlignment="Left" Margin="37,52,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="23,63,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="YCHPF1" Content="0000" HorizontalAlignment="Left" Margin="37,63,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#region 110kV shugam-->
+                <Rectangle x:Name="T12_110" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="14.5,67.5,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Rectangle x:Name="L105" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="151.832,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Rectangle x:Name="L106" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="262.499,67.5,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Rectangle x:Name="toirog" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="370.832,67.833,0,0"   VerticalAlignment="Top" Width="11" d:IsHidden="True"/>
+                <Rectangle x:Name="holbogch_11kV" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="465.166,67.833,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="uildver" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="492.167,67.5,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="T2_110kV" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="527.167,67.7,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="L111" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="556.834,67.5,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="L112" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="582.5,67.7,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="T1_110kV" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="607.833,67.5,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <!--#region  35kV-->
+
+                <Rectangle x:Name="holboo_a" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="650.5,29.501,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="t1_35" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="681.832,139.301,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="holboo_b" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="693.5,29.501,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="esgiileh_a" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="733.5,29.168,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="esgiileh_b" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="772.499,29.501,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="t2_35" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="725.166,140.301,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+
+                <Rectangle x:Name="songino_a" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.3" Margin="813.832,29.501,0,0"   VerticalAlignment="Top" Width="11.2" d:IsHidden="True"/>
+                <Rectangle x:Name="songino_b" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="871.833,29.501,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="ash4zam_a" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="913.166,29.501,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="ash4zam_b" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="955.832,29.601,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="t10_35" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.2" Margin="845.165,139.301,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="T2_6kV" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="777.165,213.267,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Rectangle x:Name="T1_6kV" Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="936.499,213.267,0,0"   VerticalAlignment="Top" Width="11.3" d:IsHidden="True"/>
+                <Border Margin="895,0,0,0" x:Name="gru1" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M1,205 L1,235.5  M1,205.7 L13,205.7  M17.2,205.2 L28.7,205.2   M28,205 L28,235.5 M13,205 L13,210 A5,5,0,1,1,18,205.2 M18,205.2" Stroke="red" StrokeThickness="1.5"   />
+                        <Rectangle Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="23.165,213.267,0,0"   VerticalAlignment="Top" Width="11.3"/>
+                    </Grid>
+                </Border>
+
+                <Border Margin="830,0,0,0" x:Name="gru2" d:IsHidden="True">
+                    <Grid>
+                        <Path Data="M1,205 L1,235.5  M1,205.7 L13,205.7  M17.2,205.2 L28.7,205.2   M28,205 L28,235.5 M13,205 L13,210 A5,5,0,1,1,18,205.2 M18,205.2" Stroke="red" StrokeThickness="1.5"   />
+                        <Rectangle Fill="#FFF73C1E" HorizontalAlignment="Left" Height="12.5" Margin="23.499,213.267,0,0"   VerticalAlignment="Top" Width="11.3"/>
+                    </Grid>
+                </Border>
+                <!--#region -->
+                <Path x:Name="T10lineRed" Data="M543,499 L543,513 M542.5,498.8 L561,498.8 M560.5,498 L560.5,544.7 M560,544 L994.8,544 M994,187.5 L994,544.5 M904.2,182 L904.2,189 M903.5,188.2 L994,188.2" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Path x:Name="T10lineGreen" Data="M543,499 L543,513 M542.5,498.8 L561,498.8 M560.5,498 L560.5,544.7 M560,544 L994.8,544 M994,187.5 L994,544.5 M904.2,182 L904.2,189 M903.5,188.2 L994,188.2" Stroke="Green" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Path x:Name="Yach53LineRed" Data="M33,520 L33,590 M33,589.2 L543,589.2 M543,535 L543,590" Stroke="red" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Path x:Name="Yach53LineGreen" Data="M33,520 L33,590 M33,589.2 L543,589.2 M543,535 L543,590" Stroke="Green" StrokeThickness="1.5" d:IsHidden="True"   />
+                <Rectangle x:Name="Ych53red" HorizontalAlignment="Left" Height="37.333" Margin="537.043,507.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="Ych53green" HorizontalAlignment="Left" Height="37.333" Margin="537.043,507.667,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="BO_13green" HorizontalAlignment="Left" Height="37.333" Margin="27.209,533.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource nogoon_tasluur}" d:IsHidden="True"/>
+                <Rectangle x:Name="BO_13red" HorizontalAlignment="Left" Height="37.333" Margin="27.209,533.167,0,0" VerticalAlignment="Top" Width="12.124" Fill="{StaticResource ulaan_tasluur}" d:IsHidden="True"/>
+                <Border Margin="925,120,0,0">
+                    <Grid>
+                        <Label Content="T10" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="OrangeRed" FontSize="8" FontFamily="Arial" Padding="0"/>
+                        <Label Content="U: " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T10U1" Content="0000" HorizontalAlignment="Left" Margin="14,10,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="I: " HorizontalAlignment="Left" Margin="1,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T10I1" Content="0000" HorizontalAlignment="Left" Margin="14,21,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="P: " HorizontalAlignment="Left" Margin="1,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T10P1" Content="0000" HorizontalAlignment="Left" Margin="14,31,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="Q:" HorizontalAlignment="Left" Margin="1,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T10Q1" Content="0000" HorizontalAlignment="Left" Margin="14,42,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label Content="PF: " HorizontalAlignment="Left" Margin="1,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                        <Label x:Name="T10PF1" Content="0000" HorizontalAlignment="Left" Margin="14,53,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF" FontSize="8" Padding="0"/>
+                    </Grid>
+                </Border>
+
+                <!--#endregion-->
+
+                <Path Data="M24,497 L42,497  M24.5,495.5 L24.5,520 M24,518.5 L42,518.5" Stroke="red" StrokeThickness="3" d:IsHidden="True"  />
+                <!--#region -->
+                <Border Margin="10,10,10,10">
+                    <Grid>
+                        <Label x:Name="L110BL1" Content="0 " HorizontalAlignment="Left" Margin="1,10,0,0" VerticalAlignment="Top" Foreground="White" FontSize="11" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="Dund_Real_P1" Content="Дунд P " HorizontalAlignment="Left" Margin="150,0,0,0" VerticalAlignment="Top" Foreground="White" FontSize="11" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="Undur_Real_P1" Content="Өндөр Р " HorizontalAlignment="Left" Margin="245,0,0,0" VerticalAlignment="Top" Foreground="White" FontSize="11" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="Niit_Real_P1" Content="Нийт Р " HorizontalAlignment="Left" Margin="385,0,0,0" VerticalAlignment="Top" Foreground="White" FontSize="11" FontFamily="Arial" Padding="0"/>
+                        <Label Content="35кВ-ЫН" HorizontalAlignment="Left" Margin="740,110,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label Content="ШИН БЛ: " HorizontalAlignment="Left" Margin="740,122,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="L35BL1" Content="0000" HorizontalAlignment="Left" Margin="743,135,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <TextBox x:Name="blDateStart1" HorizontalAlignment="Left" Margin="550,548,0,0" TextWrapping="Wrap" Text="DateTime" VerticalAlignment="Top" Width="155" Height="24"/>
+                        <TextBox x:Name="blDateStop1" HorizontalAlignment="Left" Height="24" Margin="710,548,0,0" TextWrapping="Wrap" Text="DateTime" VerticalAlignment="Top" Width="155"/>
+                        <Button Content="Баланс бодох" HorizontalAlignment="Left" Height="24" Margin="871,548,0,0" VerticalAlignment="Top" Width="108" Click="blansBodoh_click"/>
+                        <Label x:Name="BTR5BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="461,173,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BTR6BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="346,173,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BTR7BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="236,173,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BTR8BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="126,173,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BTR9BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="40,277,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL1RO1" Content="БЛ:" HorizontalAlignment="Left" Margin="472,328,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL7R1" Content="БЛ:" HorizontalAlignment="Left" Margin="472, 496,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL2RO1" Content="БЛ:" HorizontalAlignment="Left" Margin="361,328,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL8R1" Content="БЛ:" HorizontalAlignment="Left" Margin="361, 496,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL9R1" Content="БЛ:" HorizontalAlignment="Left" Margin="255,328,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL10R1" Content="БЛ:" HorizontalAlignment="Left" Margin="255, 496,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL11R1" Content="БЛ:" HorizontalAlignment="Left" Margin="152,328,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL12R1" Content="БЛ:" HorizontalAlignment="Left" Margin="152, 496,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL13R1" Content="БЛ:" HorizontalAlignment="Left" Margin="40, 492,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="UDS_BELTGEL_SHIN_BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="28, 405,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="T12BL1" Content="БЛ:" HorizontalAlignment="Left" Margin="55,329,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label Content="ГРУ-6кВ" HorizontalAlignment="Left" Margin="882,235,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="GRU6kVBL1" Content="БЛ: " HorizontalAlignment="Left" Margin="882,250,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL6R1" Content="БЛ:" HorizontalAlignment="Left" Margin="595, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL5R1" Content="БЛ:" HorizontalAlignment="Left" Margin="662, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL4R1" Content="БЛ:" HorizontalAlignment="Left" Margin="727, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL3R1" Content="БЛ:" HorizontalAlignment="Left" Margin="795, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL2R1" Content="БЛ:" HorizontalAlignment="Left" Margin="861, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                        <Label x:Name="BL1R1" Content="БЛ:" HorizontalAlignment="Left" Margin="926, 521,0,0" VerticalAlignment="Top" Foreground="White" FontSize="10" FontFamily="Arial" Padding="0"/>
+                    </Grid>
+                </Border>
+                <!--#endregion-->
+            </Grid>
+        </Viewbox>
+    </Grid>
+</UserControl>
+
