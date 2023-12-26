@@ -1,0 +1,298 @@
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\tsengel\Desktop\New folder (2)\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\tsengel\Desktop\New folder (2)\New folder\tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-03-28\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2022-11-29 - Copy (4)\WpfSchematic\obj\Debug\WpfSchematic.pdb
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\bin\Debug\WpfSchematic.dll
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\bin\Debug\WpfSchematic.pdb
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchem.g.cs
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchem.baml
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.dll
+E:\Indusoft\program\tsootsoo 3\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test\tootsoo3 2023-01-19\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\test1\tootsoo3 20230206 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230426 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230515 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 20230516 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\tootsoo3 test\tootsoo3 202300809 dotoodheregtsee - Copy (7) - Copy\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (3)\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Administrator\Desktop\New folder\ichko tootsoo\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csprojResolveAssemblyReference.cache
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.dll
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\bin\Debug\WpfSchematic.pdb
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.g.cs
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchem.baml
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.dll
+\\192.168.10.200\TES-3 Document Viewer\4. ЦЕХҮҮД\6. Цахилгаан цех\11.ЦТЛ\3.MХХ\tootsoo3 202300809 dotoodheregtsee\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\ichko\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\New folder (2)\tootsoo3 20231010\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+D:\Program\program\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+D:\Program\program\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+D:\Program\program\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\Oroo\Desktop\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.pdb
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.dll
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\bin\Debug\WpfSchematic.pdb
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.g.cs
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchem.baml
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.dll
+D:\Program\program\Tootsoo3\Tootsoo3_aguide\WpfSchematic\obj\Debug\WpfSchematic.pdb
