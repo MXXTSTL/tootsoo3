@@ -525,8 +525,10 @@ namespace WpfSchematic
         {
             set
             {
-                if (value == 1) { T12red.Visibility = Visibility.Visible; T12line.Visibility = Visibility.Visible; T12green.Visibility = Visibility.Hidden; }
-                else if (value == 2) { T12red.Visibility = Visibility.Hidden; T12line.Visibility = Visibility.Hidden; T12green.Visibility = Visibility.Visible; }
+                if (value == 1)
+                { T12red.Visibility = Visibility.Visible; T12line.Visibility = Visibility.Visible; T12green.Visibility = Visibility.Hidden; }
+                else if (value == 2)
+                { T12red.Visibility = Visibility.Hidden; T12line.Visibility = Visibility.Hidden; T12green.Visibility = Visibility.Visible; }
                 else { T12red.Visibility = Visibility.Hidden; T12line.Visibility = Visibility.Hidden; T12green.Visibility = Visibility.Hidden; }
             }
         }

@@ -3539,6 +3539,7 @@ namespace tootsoo3
                     generalSchem.T12Q = Math.Round(Convert.ToDouble(tableParameter.Rows[15][5]), 2).ToString();
                     generalSchem.T12PF = Math.Round(Convert.ToDouble(tableParameter.Rows[15][6]), 2).ToString();
 
+                  
                     #endregion
 
 
@@ -3855,7 +3856,7 @@ namespace tootsoo3
 
 
                     // t12 6kV
-                    if ((Convert.ToDouble(tableParameter.Rows[15][7].ToString()) == 1) && (Convert.ToDouble(tableParameter.Rows[15][8].ToString()) == 0))
+                    if ((Convert.ToDouble(tableParameter.Rows[15][3].ToString()) >  2))
                         generalSchem.T12 = 1;
                     else generalSchem.T12 = 2;
 
