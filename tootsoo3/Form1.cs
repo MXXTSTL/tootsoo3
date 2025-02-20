@@ -20,6 +20,8 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Text.RegularExpressions;
+//using System.Windows.Controls;
+//using System.Windows.Controls;
 
 namespace tootsoo3
 {
@@ -2611,6 +2613,7 @@ namespace tootsoo3
 
         }
 
+      
         private void button4_Click(object sender, EventArgs e)
         {
             ExporttoExcel(dataGridView13, dateTimePicker1.Value.ToString("dd-MM-yyyy"));
@@ -6787,5 +6790,34 @@ namespace tootsoo3
                 connection.Close();
 
         }
+        private void timerIPcheck_Tick(object sender, EventArgs e)
+        {
+            try 
+            { 
+            Ping pingSender = new Ping();
+            bool pinging = false;
+
+            SqlDataAdapter da = new SqlDataAdapter("select *from tongololip order by id", con);
+            DataSet ds = new DataSet();
+            da.Fill(ds, "IP");
+            for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
+            {
+
+                if (Convert.ToInt16(ds.Tables[0].Rows[i][5]) == 1)
+                {
+                    string ipAddress = ds.Tables[0].Rows[i][1].ToString().Trim();
+                    PingReply reply = pingSender.Send(ipAddress);
+                    pinging = reply.Status == IPStatus.Success;
+                    if (pinging == false) // 
+                    {
+                        MessageBox.Show(ipAddress + " " + ds.Tables[0].Rows[i][2].ToString() + " холбогдохгүй байна.");
+                    }
+                }
+            }
+            }
+            catch { }
+
+        }
+
     }
 }

@@ -2096,3 +2096,28 @@ D:\repos\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.WinForms.pdb
 D:\repos\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.WinForms.xml
 D:\repos\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.Wpf.pdb
 D:\repos\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.Wpf.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.csproj.ResolveComReference.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.Тооцоо.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.Form2.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.Properties.Resources.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.csproj.Up2Date
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.exe.config
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.exe
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\tootsoo3.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\CircularProgressBar.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.WinForms.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.Wpf.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\WinFormAnimation.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\CircularProgressBar.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.WinForms.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.WinForms.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.Wpf.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\tootsoo3\obj\Debug\LiveCharts.Wpf.xml

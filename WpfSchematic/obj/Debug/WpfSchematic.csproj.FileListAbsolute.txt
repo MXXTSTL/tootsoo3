@@ -309,3 +309,16 @@ D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
