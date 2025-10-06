@@ -309,3 +309,798 @@ D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
 D:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3 - Copy (2)\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\өнгө\Tootsoo3_LiveChart2\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-1\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2-3\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Pink - Copy\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\color\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.xml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.g.cs
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.baml
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
+D:\repos\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\test2\Tootsoo3_LiveChart2 Budeg tsenher - Copy (3)\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\New folder\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\libSkiaSharp.dylib
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll.config
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\WpfSchematic.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Drawing.Common.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\HarfBuzzSharp.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\LiveChartsCore.SkiaSharpView.WPF.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.pdb
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\SkiaSharp.Views.WPF.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Buffers.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Memory.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Text.Json.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\bin\Debug\System.ValueTuple.xml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.g.cs
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.cache
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic_MarkupCompile.lref
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.baml
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.g.resources
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.Properties.Resources.resources
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.GenerateResource.cache
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.csproj.CoreCompileInputs.cache
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
+C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
