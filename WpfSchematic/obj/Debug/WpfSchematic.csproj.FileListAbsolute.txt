@@ -1104,3 +1104,6 @@ C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Deb
 C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchem.57049C79.Up2Date
 C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.dll
 C:\Users\oroo\Desktop\mxx\Tootsoo3_LiveChart2 Budeg tsenher\WpfSchematic\obj\Debug\WpfSchematic.pdb
+F:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.csproj.AssemblyReference.cache
+F:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.dll
+F:\repos\Tootsoo3\WpfSchematic\obj\Debug\WpfSchematic.pdb
