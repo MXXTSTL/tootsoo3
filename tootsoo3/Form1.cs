@@ -58,7 +58,7 @@ namespace tootsoo3
         int ehlehtg;
         int tolowtg;
         float[] avsan = new float[20];
-        SqlConnection con, conp;
+        SqlConnection con, conp,con85_ui;
         float[] tg = new float[20];
         float[,] tg1 = new float[20, 20];
         Point? prevPosition = null;
@@ -92,7 +92,7 @@ namespace tootsoo3
 
 
         #endregion
-     
+     //Git Hiisen
         public Тооцоо()
         {
             InitializeComponent();
@@ -110,6 +110,8 @@ namespace tootsoo3
             conp = new SqlConnection();
             conp.ConnectionString = SqlHelper.connectionlist[15].ConnectionString;
 
+            con85_ui = new SqlConnection();
+            con85_ui.ConnectionString = SqlHelper.connectionlist[15].ConnectionString;
 
 
 
@@ -297,61 +299,7 @@ namespace tootsoo3
             }
             connectionclose(con);
         }
-        private void updatetodaalgawar(DateTime tsag, float daalgawar, float daalgawar1)
-        {
-            SqlCommand cmd = new SqlCommand("UPDATE daalgawar SET tsag=@datetime, daalgawar=@daalgawar11, daalgawar1=@daalgawar22", con);
-            cmd.Parameters.AddWithValue("@datetime", tsag);
-            cmd.Parameters.AddWithValue("@daalgawar11", daalgawar);
-            cmd.Parameters.AddWithValue("@daalgawar22", daalgawar1);
-            con.Open();
-            if (cmd.ExecuteNonQuery() == 0)
-            {
-                MessageBox.Show("error");
-            }
-            cmd = new SqlCommand("UPDATE daalgawara SET tsag=@datetime, daalgawar=@daalgawar11, daalgawar1=@daalgawar22", con);
-            cmd.Parameters.AddWithValue("@datetime", tsag);
-            cmd.Parameters.AddWithValue("@daalgawar11", daalgawar);
-            cmd.Parameters.AddWithValue("@daalgawar22", daalgawar1);
-            if (cmd.ExecuteNonQuery() == 0)
-            {
-                MessageBox.Show("error");
-            }
-            con.Close();
-
-       //     con.Open();
-       //     cmd = new SqlCommand("UPDATE daalgawar SET tsag=@datetime, daalgawar=@daalgawar11, daalgawar1=@daalgawar22", con_Az);
-       //     cmd.Parameters.AddWithValue("@datetime", tsag);
-       //     cmd.Parameters.AddWithValue("@daalgawar11", daalgawar);
-       //     cmd.Parameters.AddWithValue("@daalgawar22", daalgawar1);
-       //     if (cmd.ExecuteNonQuery() == 0)
-       //     {
-        //        MessageBox.Show("error");
-         //   }
-            //con_Az.Close();
-        }
-        private void deletefromdaalgawar(DateTime tsag, float daalgawar, float daalgawar1)
-        {
-            SqlCommand cmd = new SqlCommand("DELETE from daalgawar where (tsag=@datetime, daalgawar=@daalgawar11, daalgawar1=@daalgawar22)", con);
-            cmd.Parameters.AddWithValue("@datetime", tsag);
-            cmd.Parameters.AddWithValue("@daalgawar11", daalgawar);
-            cmd.Parameters.AddWithValue("@daalgawar22", daalgawar1);
-
-            con.Open();
-            if (cmd.ExecuteNonQuery() == 0)
-            {
-                MessageBox.Show("error");
-            }
-            cmd = new SqlCommand("DELETE from daalgawara where (tsag=@datetime, daalgawar=@daalgawar11, daalgawar1=@daalgawar22)", con);
-            cmd.Parameters.AddWithValue("@datetime", tsag);
-            cmd.Parameters.AddWithValue("@daalgawar11", daalgawar);
-            cmd.Parameters.AddWithValue("@daalgawar22", daalgawar1);
-
-            if (cmd.ExecuteNonQuery() == 0)
-            {
-                MessageBox.Show("error");
-            }
-            con.Close();
-        }
+      
         #endregion
         private void tootsooTimer_Tick(object sender, EventArgs e)
         {
@@ -601,12 +549,14 @@ namespace tootsoo3
                 da11.Fill(tableDaalgawar1);
             }
 
+           // MessageBox.Show(tableDaalgawar1.Rows.Count.ToString());
             // dataGridView18.DataSource = tableDaalgawar1; // Хэрэв хүсэж байвал харагдуулахад
 
             // 3. Хугацаа хөрвүүлэлт
             DateTime clock = DateTime.ParseExact(textBox13.Text, "HH:mm:ss", CultureInfo.InvariantCulture);
             DateTime clock1 = DateTime.ParseExact(textBox14.Text, "HH:mm:ss", CultureInfo.InvariantCulture);
 
+         
             // 4. tableDaalgawar дотор ижил цаг байгаа эсэх
             bool b = tableDaalgawar.AsEnumerable().Any(row => DateTime.ParseExact(row["Цаг"].ToString(), "HH:mm:ss", CultureInfo.InvariantCulture).Hour == clock.Hour);
 
@@ -621,18 +571,21 @@ namespace tootsoo3
                     clock = clock.AddMinutes(1);
                 }
             }
-
+            clock = DateTime.ParseExact(textBox13.Text, "HH:mm:ss", CultureInfo.InvariantCulture);
             // 6. 15 минут тутмын давхардлыг шалгах
             bool c = tableDaalgawar1.AsEnumerable().Any(row => DateTime.ParseExact(row["Цаг"].ToString(), "HH:mm:ss", CultureInfo.InvariantCulture).Hour == clock.Hour);
-
+  //          c = tableDaalgawar1.AsEnumerable().Any(row => DateTime.ParseExact(row["Цаг"].ToString(), "HH:mm:ss", CultureInfo.InvariantCulture).Hour == clock.Hour);
+//            MessageBox.Show(c.ToString());
             clock = DateTime.ParseExact(textBox13.Text, "HH:mm:ss", CultureInfo.InvariantCulture);
             DateTime clock4 = DateTime.ParseExact("23:45:00", "HH:mm:ss", CultureInfo.InvariantCulture);
 
             // 7. Даалгавар1 дотор байхгүй бол 15 минут тутамд нэмэх
             if (!c)
             {
+                // MessageBox.Show("ok");
                 while (clock < clock1)
                 {
+                   // MessageBox.Show("ok");
                     clock = clock.AddMinutes(15);
                     avsan[19] = float.Parse(textBox15.Text);
                     avsan[18] = avsan[19] / 4;
@@ -642,6 +595,7 @@ namespace tootsoo3
                         inserttodaalgawar15(clock, avsan[18]);
                         clock = clock.AddMinutes(14);
                         inserttodaalgawar15(clock, avsan[18]);
+                        
                     }
                     else
                     {
@@ -827,7 +781,57 @@ namespace tootsoo3
         {
             dateTimePicker1.Value = DateTime.Now;
         }
-         private void comboBox26_SelectedIndexChanged(object sender, EventArgs e)
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
+           
+            client.Connect("192.168.3.245", 5041);
+
+            var reply = client.WriteLineAndGetReply(
+                "Hello",
+                TimeSpan.FromSeconds(5)   // заавал > 0 байна
+            );
+
+            string data = reply.MessageString;
+          
+
+            string[] parts = data.Split(
+      new string[] { "*" },
+      StringSplitOptions.RemoveEmptyEntries
+  );
+
+            double[] a = new double[parts.Length];
+
+            for (int i = 0; i < parts.Length; i++)
+            {
+                a[i] = Math.Round(
+         double.Parse(parts[i].Replace("#", ""),
+             CultureInfo.InvariantCulture),
+         2   // таслалаас хойш хэдэн орон
+     );
+            }
+
+
+            label385.Text = a[0].ToString() + "MBт";
+            label386.Text = a[1].ToString() + "MBт";
+            label387.Text = a[2].ToString() + "MBт";
+            label388.Text = a[3].ToString() + "MBт";
+            label389.Text = a[4].ToString() + "MBт";
+            label390.Text = a[5].ToString() + "MBт";
+            label391.Text = a[6].ToString() + "MBт";
+            label392.Text = a[7].ToString() + "MBт";
+
+            label2.Text = (a[0] + a[1] + a[2] + a[3]).ToString() + "MBт";
+            label13.Text = (a[4] + a[5] + a[6] + a[7]).ToString() + "MBт";
+            label384.Text = (a[0] + a[1] + a[2] + a[3] + a[4] + a[5] + a[6] + a[7]).ToString() + "MBт";
+
+            //   label393.Text = a[8].ToString() + "MB";
+
+
+        }
+
+        private void comboBox26_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (comboBox26.SelectedIndex == 0)
             {
@@ -879,209 +883,220 @@ namespace tootsoo3
             {
                 try
                 {
+               //     SqlDataAdapter da3 = new SqlDataAdapter(@"SELECT  *FROM TOP 1 daalgawar   ORDER BY id DESC", con);
+
+               //     DataSet ds3 = new DataSet();
+               //     da3.Fill(ds3);
+              //      label384.Text = ds3.Tables[0].Rows[0][8].ToString();
 
 
 
-                    int index = (int)TabControl.Invoke((Func<int>)(() => TabControl.SelectedIndex));
-
-                    if (index == 1)
-                    {
-                        reply85 = isping.Send("192.168.3.245");
-                        ping85 = reply85.Status == IPStatus.Success;
-                        if (ping85 == true)
-                        {
-                            ehleh = 0;
-                            ehlehtg = 0;
-                            string t1 = "#$";
-                            string t2 = "'*:";
-                        //    string ut;
+                    /*
 
 
-                            #region TG
-                            TcpClient client_tg = new TcpClient();
-                            client_tg.Connect(IPAddress.Parse("192.168.3.245"), 10858);
-                            data_tg = Encoding.UTF8.GetBytes("fas");
+                                        int index = (int)TabControl.Invoke((Func<int>)(() => TabControl.SelectedIndex));
 
-                            NetworkStream stream_tg = client_tg.GetStream();
-                            stream_tg.Write(data_tg, 0, data_tg.Length);
-                            buffer_tg = new byte[client_tg.ReceiveBufferSize];
-                            bytesRead_tg = stream_tg.Read(buffer_tg, 0, client_tg.ReceiveBufferSize);
-                            response_tg = Encoding.UTF8.GetString(buffer_tg, 0, bytesRead_tg);
-
-                            #region  horwuuleh  TG
-                            for (int i = 0; i < response_tg.Length; i++)
-                            {
-                                if (response_tg[i] == t1[0])
-                                {
-                                    tolowtg = 1;
-                                    r1tg = i;
-
-                                }
-                                if (tolowtg == 1)
-                                {
-                                    if (response_tg[i] == t1[1])
-                                    {
-                                        r2tg = i;
-                                        tolowtg = 0;
-
-                                        tonogloltg[ehlehtg] = response_tg.Substring(r1tg, r2tg - r1tg);
-                                        ehlehtg++;
-                                    }
-                                }
-
-                            }
-
-
-                            for (int i1 = 0; i1 < ehlehtg; i1++)
-                            {
-                                mtg = 0;
-                                for (int i = 0; i < tonogloltg[i1].Length; i++)
-                                {
-                                    if (tonogloltg[i1][i] == t2[0])
-                                    {
-                                        tolowtg = 1;
-                                        r1tg = i;
-
-                                    }
-                                    if (tolowtg == 1)
-                                    {
-                                        if (tonogloltg[i1][i] == t2[1])
+                                        if (index == 1)
                                         {
-                                            r2tg = i;
-                                            tolowtg = 0;
+                                            reply85 = isping.Send("192.168.3.245");
+                                            ping85 = reply85.Status == IPStatus.Success;
+                                            if (ping85 == true)
+                                            {
+                                                ehleh = 0;
+                                                ehlehtg = 0;
+                                                string t1 = "#$";
+                                                string t2 = "'*:";
+                                            //    string ut;
 
-                                            tonoglolutg[i1, mtg] = tonogloltg[i1].Substring(r1tg, r2tg - r1tg);
-                                            mtg++;
+
+                                                #region TG
+                                                TcpClient client_tg = new TcpClient();
+                                                client_tg.Connect(IPAddress.Parse("192.168.3.245"), 10858);
+                                                data_tg = Encoding.UTF8.GetBytes("fas");
+
+                                                NetworkStream stream_tg = client_tg.GetStream();
+                                                stream_tg.Write(data_tg, 0, data_tg.Length);
+                                                buffer_tg = new byte[client_tg.ReceiveBufferSize];
+                                                bytesRead_tg = stream_tg.Read(buffer_tg, 0, client_tg.ReceiveBufferSize);
+                                                response_tg = Encoding.UTF8.GetString(buffer_tg, 0, bytesRead_tg);
+
+
+                                                #region  horwuuleh  TG
+                                                for (int i = 0; i < response_tg.Length; i++)
+                                                {
+                                                    if (response_tg[i] == t1[0])
+                                                    {
+                                                        tolowtg = 1;
+                                                        r1tg = i;
+
+                                                    }
+                                                    if (tolowtg == 1)
+                                                    {
+                                                        if (response_tg[i] == t1[1])
+                                                        {
+                                                            r2tg = i;
+                                                            tolowtg = 0;
+
+                                                            tonogloltg[ehlehtg] = response_tg.Substring(r1tg, r2tg - r1tg);
+                                                            ehlehtg++;
+                                                        }
+                                                    }
+
+                                                }
+
+
+                                                for (int i1 = 0; i1 < ehlehtg; i1++)
+                                                {
+                                                    mtg = 0;
+                                                    for (int i = 0; i < tonogloltg[i1].Length; i++)
+                                                    {
+                                                        if (tonogloltg[i1][i] == t2[0])
+                                                        {
+                                                            tolowtg = 1;
+                                                            r1tg = i;
+
+                                                        }
+                                                        if (tolowtg == 1)
+                                                        {
+                                                            if (tonogloltg[i1][i] == t2[1])
+                                                            {
+                                                                r2tg = i;
+                                                                tolowtg = 0;
+
+                                                                tonoglolutg[i1, mtg] = tonogloltg[i1].Substring(r1tg, r2tg - r1tg);
+                                                                mtg++;
+                                                            }
+                                                        }
+
+                                                    }
+                                                }
+
+                                                for (int i = 0; i < ehlehtg; i++)
+                                                {
+                                                    for (int j = 0; j < 6; j++)
+                                                    {
+                                                        for (int i1 = 0; i1 < tonoglolutg[i, j].Length; i1++)
+                                                        {
+                                                            if (tonoglolutg[i, j][i1] == t2[0])
+                                                            {
+                                                                i1++;
+                                                                tonoglolu1tg[i, j] = tonoglolutg[i, j].Substring(i1, tonoglolutg[i, j].Length - i1);
+                                                                //tonoglolutga[i, j] = Convert.ToUInt16(tonoglolu[i, j].Substring(i1, 2));
+                                                            }
+
+                                                            if (tonoglolutg[i, j][i1] == t2[2])
+                                                            {
+                                                                i1++;
+                                                                tonoglolu1tg[i, j] = tonoglolutg[i, j].Substring(i1, tonoglolutg[i, j].Length - i1);
+                                                                tonoglolutgatg[i, j] = float.Parse(tonoglolu1tg[i, j]);
+                                                            }
+
+                                                        }
+                                                    }
+                                                }
+
+                                                #endregion
+                                                #region tg
+
+                                                if (label385.InvokeRequired)
+                                                {
+                                                    label385.Invoke(new Action(() => label385.Text = Math.Round(tonoglolutgatg[0, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label386.InvokeRequired)
+                                                {
+                                                    label386.Invoke(new Action(() => label386.Text = Math.Round(tonoglolutgatg[1, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label387.InvokeRequired)
+                                                {
+                                                    label387.Invoke(new Action(() => label387.Text = Math.Round(tonoglolutgatg[2, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label388.InvokeRequired)
+                                                {
+                                                    label388.Invoke(new Action(() => label388.Text = Math.Round(tonoglolutgatg[3, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label389.InvokeRequired)
+                                                {
+                                                    label389.Invoke(new Action(() => label389.Text = Math.Round(tonoglolutgatg[4, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label390.InvokeRequired)
+                                                {
+                                                    label390.Invoke(new Action(() => label390.Text = Math.Round(tonoglolutgatg[5, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label391.InvokeRequired)
+                                                {
+                                                    label391.Invoke(new Action(() => label391.Text = Math.Round(tonoglolutgatg[6, 3], 2).ToString() + " МВт"));
+                                                }
+                                                if (label392.InvokeRequired)
+                                                {
+                                                    label392.Invoke(new Action(() => label392.Text = Math.Round(tonoglolutgatg[7, 3], 2).ToString() + " МВт"));
+                                                }
+
+                                                if (label2.InvokeRequired)
+                                                {
+                                                    double dundniilber = Math.Round(tonoglolutgatg[0, 3], 2) + Math.Round(tonoglolutgatg[1, 3], 2) + Math.Round(tonoglolutgatg[2, 3], 2) + Math.Round(tonoglolutgatg[3, 3], 2);
+                                                    string dundstring = dundniilber.ToString() + "";
+                                                    label2.Invoke(new Action(() => label2.Text = dundstring + " МВт"));
+                                                }
+                                                if (label13.InvokeRequired)
+                                                {
+                                                    double undurniilber;
+                                                    if (label393.Text.Length > 0)
+                                                    {
+
+                                                        string newStr = label393.Text.Replace(" ", "");
+                                                        newStr = newStr.Replace("М", "");
+                                                        newStr = newStr.Replace("В", "");
+                                                        newStr = newStr.Replace("т", "");
+                                                        double tg9b = Math.Round(Convert.ToDouble(newStr), 2);
+                                                        undurniilber = tg9b + Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
+                                                    }
+                                                    else
+                                                        undurniilber = Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
+                                                    string undurstring = undurniilber.ToString() + "";
+                                                    label13.Invoke(new Action(() => label13.Text = undurstring + " MBт"));
+
+                                                    // label13.Invoke(new Action(() => label13.Text = (Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2)).ToString() + " МВт"));
+                                                }
+
+                                                if (label384.InvokeRequired)
+                                                {
+                                                    double undurniilber;
+                                                    if (label393.Text.Length > 0)
+                                                    {
+
+                                                        string newStr = label393.Text.Replace(" ", "");
+                                                        newStr = newStr.Replace("М", "");
+                                                        newStr = newStr.Replace("В", "");
+                                                        newStr = newStr.Replace("т", "");
+                                                        double tg9b = Math.Round(Convert.ToDouble(newStr), 2);
+                                                        undurniilber = tg9b + Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
+                                                    }
+                                                    else
+                                                        undurniilber = Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
+
+                                                    double dundniilber = Math.Round(tonoglolutgatg[0, 3], 2) + Math.Round(tonoglolutgatg[1, 3], 2) + Math.Round(tonoglolutgatg[2, 3], 2) + Math.Round(tonoglolutgatg[3, 3], 2);
+
+                                                    string niitbolows = (undurniilber + dundniilber).ToString();
+                                                    label384.Invoke(new Action(() => label384.Text = niitbolows + " МВт"));
+                                                }
+
+
+
+
+                                                #endregion
+
+                                                #endregion
+
+                                                Thread.Sleep(700);
+
+                                            }
                                         }
-                                    }
-
-                                }
-                            }
-
-                            for (int i = 0; i < ehlehtg; i++)
-                            {
-                                for (int j = 0; j < 6; j++)
-                                {
-                                    for (int i1 = 0; i1 < tonoglolutg[i, j].Length; i1++)
-                                    {
-                                        if (tonoglolutg[i, j][i1] == t2[0])
+                                        else
                                         {
-                                            i1++;
-                                            tonoglolu1tg[i, j] = tonoglolutg[i, j].Substring(i1, tonoglolutg[i, j].Length - i1);
-                                            //tonoglolutga[i, j] = Convert.ToUInt16(tonoglolu[i, j].Substring(i1, 2));
+                                            break;
                                         }
 
-                                        if (tonoglolutg[i, j][i1] == t2[2])
-                                        {
-                                            i1++;
-                                            tonoglolu1tg[i, j] = tonoglolutg[i, j].Substring(i1, tonoglolutg[i, j].Length - i1);
-                                            tonoglolutgatg[i, j] = float.Parse(tonoglolu1tg[i, j]);
-                                        }
-
-                                    }
-                                }
-                            }
-
-                            #endregion
-                            #region tg
-
-                            if (label385.InvokeRequired)
-                            {
-                                label385.Invoke(new Action(() => label385.Text = Math.Round(tonoglolutgatg[0, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label386.InvokeRequired)
-                            {
-                                label386.Invoke(new Action(() => label386.Text = Math.Round(tonoglolutgatg[1, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label387.InvokeRequired)
-                            {
-                                label387.Invoke(new Action(() => label387.Text = Math.Round(tonoglolutgatg[2, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label388.InvokeRequired)
-                            {
-                                label388.Invoke(new Action(() => label388.Text = Math.Round(tonoglolutgatg[3, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label389.InvokeRequired)
-                            {
-                                label389.Invoke(new Action(() => label389.Text = Math.Round(tonoglolutgatg[4, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label390.InvokeRequired)
-                            {
-                                label390.Invoke(new Action(() => label390.Text = Math.Round(tonoglolutgatg[5, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label391.InvokeRequired)
-                            {
-                                label391.Invoke(new Action(() => label391.Text = Math.Round(tonoglolutgatg[6, 3], 2).ToString() + " МВт"));
-                            }
-                            if (label392.InvokeRequired)
-                            {
-                                label392.Invoke(new Action(() => label392.Text = Math.Round(tonoglolutgatg[7, 3], 2).ToString() + " МВт"));
-                            }
-
-                            if (label2.InvokeRequired)
-                            {
-                                double dundniilber = Math.Round(tonoglolutgatg[0, 3], 2) + Math.Round(tonoglolutgatg[1, 3], 2) + Math.Round(tonoglolutgatg[2, 3], 2) + Math.Round(tonoglolutgatg[3, 3], 2);
-                                string dundstring = dundniilber.ToString() + "";
-                                label2.Invoke(new Action(() => label2.Text = dundstring + " МВт"));
-                            }
-                            if (label13.InvokeRequired)
-                            {
-                                double undurniilber;
-                                if (label393.Text.Length > 0)
-                                {
-
-                                    string newStr = label393.Text.Replace(" ", "");
-                                    newStr = newStr.Replace("М", "");
-                                    newStr = newStr.Replace("В", "");
-                                    newStr = newStr.Replace("т", "");
-                                    double tg9b = Math.Round(Convert.ToDouble(newStr), 2);
-                                    undurniilber = tg9b + Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
-                                }
-                                else
-                                    undurniilber = Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
-                                string undurstring = undurniilber.ToString() + "";
-                                label13.Invoke(new Action(() => label13.Text = undurstring + " MBт"));
-
-                                // label13.Invoke(new Action(() => label13.Text = (Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2)).ToString() + " МВт"));
-                            }
-
-                            if (label384.InvokeRequired)
-                            {
-                                double undurniilber;
-                                if (label393.Text.Length > 0)
-                                {
-
-                                    string newStr = label393.Text.Replace(" ", "");
-                                    newStr = newStr.Replace("М", "");
-                                    newStr = newStr.Replace("В", "");
-                                    newStr = newStr.Replace("т", "");
-                                    double tg9b = Math.Round(Convert.ToDouble(newStr), 2);
-                                    undurniilber = tg9b + Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
-                                }
-                                else
-                                    undurniilber = Math.Round(tonoglolutgatg[4, 3], 2) + Math.Round(tonoglolutgatg[5, 3], 2) + Math.Round(tonoglolutgatg[6, 3], 2) + Math.Round(tonoglolutgatg[7, 3], 2);
-
-                                double dundniilber = Math.Round(tonoglolutgatg[0, 3], 2) + Math.Round(tonoglolutgatg[1, 3], 2) + Math.Round(tonoglolutgatg[2, 3], 2) + Math.Round(tonoglolutgatg[3, 3], 2);
-
-                                string niitbolows = (undurniilber + dundniilber).ToString();
-                                label384.Invoke(new Action(() => label384.Text = niitbolows + " МВт"));
-                            }
-
-
-                       
-
-                            #endregion
-
-                            #endregion
-
-                            Thread.Sleep(700);
-
-                        }
-                    }
-                    else
-                    {
-                        break;
-                    }
+                                        */
                 }
 
                 catch { }

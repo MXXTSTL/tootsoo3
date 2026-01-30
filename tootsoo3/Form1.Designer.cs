@@ -143,6 +143,7 @@
             this.dateTimerPickerEnd = new System.Windows.Forms.Timer(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.timerIPcheck = new System.Windows.Forms.Timer(this.components);
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.tabPage4.SuspendLayout();
             this.tableLayoutPanel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -351,7 +352,6 @@
             this.panel7.Name = "panel7";
             this.panel7.Size = new System.Drawing.Size(199, 556);
             this.panel7.TabIndex = 62;
-            this.panel7.Paint += new System.Windows.Forms.PaintEventHandler(this.panel7_Paint);
             // 
             // label51
             // 
@@ -1292,7 +1292,7 @@
             this.dataGridView5.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView5.Location = new System.Drawing.Point(3, 3);
             this.dataGridView5.Name = "dataGridView5";
-            this.dataGridView5.Size = new System.Drawing.Size(316, 197);
+            this.dataGridView5.Size = new System.Drawing.Size(316, 190);
             this.dataGridView5.TabIndex = 62;
             // 
             // textBox15
@@ -1433,6 +1433,12 @@
             this.timerIPcheck.Enabled = true;
             this.timerIPcheck.Interval = 1800000;
             this.timerIPcheck.Tick += new System.EventHandler(this.timerIPcheck_Tick);
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Тооцоо
             // 
@@ -1597,6 +1603,7 @@
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Panel panel9;
         private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
